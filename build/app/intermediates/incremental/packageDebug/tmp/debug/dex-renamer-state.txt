@@ -1,0 +1,4 @@
+#Fri Sep 17 09:47:42 IST 2021
+base.0=/Users/sushantkumar/Desktop/buy_and_sell/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
