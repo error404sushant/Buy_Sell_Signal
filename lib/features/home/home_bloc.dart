@@ -7,6 +7,8 @@ import 'package:buy_and_sell/resource/coinModel.dart';
 import 'package:buy_and_sell/resource/http_service.dart';
 import 'package:flutter/cupertino.dart';
 
+import '../../resource/coinModel.dart';
+
 enum HomeState { Loading, Success, Failed }
 
 class HomeBloc {
